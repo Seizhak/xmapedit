@@ -7,8 +7,20 @@
 ======================================================================
 
 THIS LEVEL IS NEITHER MADE BY OR SUPPORTED BY MONOLITH PRODUCTIONS,
-GT INTERACTIVE SOFTWARE, THE WIZARDWORKS GROUP, OR ANY OF THEIR
-AFFILIATES AND SUBSIDIARIES.
+WARNER BROS, ATARI (FORMERLY GT INTERACTIVE SOFTWARE), THE WIZARDWORKS
+GROUP, NIGHTDIVE SOFTWARE OR ANY OF THEIR AFFILIATES AND SUBSIDIARIES.
+
+* Contents *
+
+-General information
+-Play information
+-Compatibility
+-Construction
+-Important information
+-Copyright / Permissions
+-Where to get this MAP
+
+* General information*
 
 Game                   : Blood
 Title                  : Type the full name of your map
@@ -32,7 +44,8 @@ BloodBath 2-8 Player   :
 Cooperative 2-8 Player : 
 CTF (Team Play)        : 
 Difficulty Settings    : 
-Plasma Pak required    : 
+Plasma Pak required    :
+Pitchfork start        : 
 Cryptic Passage art    : 
 New Art                : 
 New Music              : 

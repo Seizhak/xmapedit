@@ -7,8 +7,20 @@
 ======================================================================
 
 THIS ADD-ON IS NEITHER MADE BY OR SUPPORTED BY MONOLITH PRODUCTIONS,
-GT INTERACTIVE SOFTWARE, THE WIZARDWORKS GROUP, OR ANY OF THEIR
-AFFILIATES AND SUBSIDIARIES.
+WARNER BROS, ATARI (FORMERLY GT INTERACTIVE SOFTWARE), THE WIZARDWORKS
+GROUP, NIGHTDIVE SOFTWARE OR ANY OF THEIR AFFILIATES AND SUBSIDIARIES.
+
+* Contents *
+
+-General information
+-Play information
+-Compatibility
+-Construction
+-Important information
+-Copyright / Permissions
+-Where to get this ADD-ON
+
+* General information*
 
 Game                   : Blood
 Title                  : Type the full name of your map
@@ -32,6 +44,7 @@ Cooperative 2-8 Player :
 CTF (Team Play)        : 
 Difficulty Settings    : 
 Plasma Pak required    : 
+Pitchfork start        : 
 Cryptic Passage art    : 
 New Art                : 
 New Music              : 
@@ -87,6 +100,6 @@ you would send me a copy of that CD.
 
 ======================================================================
 
-* Where to get this MAP *
+* Where to get this ADD-ON *
 
 WWW                    :
